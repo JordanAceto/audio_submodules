@@ -1,0 +1,15 @@
+[submodule "VCF_plug_in_boards"]
+	path = VCF_plug_in_boards
+	url = https://github.com/JordanAceto/VCF_plug_in_boards
+[submodule "SSI2130_VCO"]
+	path = SSI2130_VCO
+	url = https://github.com/JordanAceto/SSI2130_VCO
+[submodule "stm32l0_mod_source"]
+	path = stm32l0_mod_source
+	url = https://github.com/JordanAceto/stm32l0_mod_source
+[submodule "CEM3340_VCO"]
+	path = CEM3340_VCO
+	url = https://github.com/JordanAceto/CEM3340_VCO
+[submodule "fv1_breakout_board"]
+	path = fv1_breakout_board
+	url = https://github.com/JordanAceto/fv1_breakout_board
